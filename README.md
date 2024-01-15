@@ -1,60 +1,65 @@
-## Hello! I'm Sandson Costa 🖐️
+<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!%20I'm%20Sandson%20Costa%20🖐️&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&animation=scaleIn" />
 &nbsp;&nbsp;&nbsp;
+<p align="center">I'm currently working as a Blue Team Analyst at SOC Tier 2.</p>&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center" style="margin-bottom:100px">
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sandsoncosta&theme=dracula" />
+<img align="center" style="background-color: black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandsoncosta&layout=compact&theme=dracula" />
+</div>
  
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![PowerShell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Syslog-NG](https://img.shields.io/badge/Syslog_ng-0747a6?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![NXLog](https://img.shields.io/badge/nxlog-143055?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![AuditD](https://img.shields.io/badge/rsyslog-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![AuditD](https://img.shields.io/badge/auditd-A81D33?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
+#### Vendors:
+
+![IBM QRadar SIEM](https://img.shields.io/badge/ibm_qradar_siem-0D597F?style=for-the-badge&logoColor=white)&nbsp;
+![IBM QRadar EDR](https://img.shields.io/badge/ibm_qradar_edr-262577?style=for-the-badge&logoColor=white)&nbsp;
+![IBM QRadar SOAR](https://img.shields.io/badge/ibm_qradar_soar-121011?style=for-the-badge&logoColor=white)&nbsp;
+![Graylog](https://img.shields.io/badge/graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white)&nbsp;
+![Graylog](https://img.shields.io/badge/wazuh-33CCFF?style=for-the-badge&logoColor=white)&nbsp;
+![IBM QRadar SOAR](https://img.shields.io/badge/logrythm-121011?style=for-the-badge&logoColor=white)&nbsp;
+
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Cyber Threat Intelligence](https://img.shields.io/badge/cyber_threat_intelligence-4285F4?style=for-the-badge&logo=cyberdefenders&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)&nbsp;
 
-#### Databases:
+#### Databases (Knowledge):
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/sql_server-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/sql_lite-003B57?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)&nbsp;
+![Teams](https://img.shields.io/badge/microsoft_teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/windows_terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -62,11 +67,7 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/sandsoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
